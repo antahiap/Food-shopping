@@ -1,0 +1,739 @@
+{"foods":[
+  {
+    "name": "seelchs in tomatenrahm",
+    "id": "0001",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Seelachs",
+        "amount": 400,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item":"Zucchini",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"festk Kartoffeln",
+        "amount": 800,
+        "unit":"gr",
+        "grp": 2
+      },
+      {
+        "item":"rote Paprika",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Frühlingswiebel",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Knoblauchzehe",
+        "amount": 1,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Gemüsebrühe",
+        "amount": 8,
+        "unit":"gr",
+        "grp": 3
+      },
+      {
+        "item":"Tomatenpesto",
+        "amount": 50,
+        "unit":"gr",
+        "grp": 5
+      },
+      {
+        "item":"Kochsahne",
+        "amount": 400,
+        "unit":"gr",
+        "grp": 4
+      }
+    ]
+  },
+  {
+    "name": "hallumi mit linsengemüse",
+    "id": "0002",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Halloumi",
+        "amount": 400,
+        "unit": "gr",
+        "grp": 4
+      },
+      {
+        "item":"Zucchini",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"braune Linsen",
+        "amount": 100,
+        "unit":"gr",
+        "grp": 5
+      },
+      {
+        "item":"Tomate",
+        "amount": 4,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"rote Zweibel",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Knoblauchzehe",
+        "amount": 1,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Gemüsebrühe",
+        "amount": 8,
+        "unit":"gr",
+        "grp": 3
+      },
+      {
+        "item":"Babyspinat",
+        "amount": 100,
+        "unit":"gr",
+        "grp": 2
+      },
+      {
+        "item":"Worcester sauce",
+        "amount": 16,
+        "unit":"ml",
+        "grp": 3
+      },
+      {
+        "item":"Karrote",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Sahnejoghurt",
+        "amount": 200,
+        "unit":"gr",
+        "grp": 4
+      },
+      {
+        "item":"Minze",
+        "amount": 10,
+        "unit":"gr",
+        "grp": 2
+      },
+      {
+        "item":"Petersilie",
+        "amount": 10,
+        "unit":"gr",
+        "grp": 2
+      },
+      {
+        "item":"Kumin",
+        "amount": 1,
+        "unit":"gr",
+        "grp": 3
+      },
+      {
+        "item":"Zitrone",
+        "amount": 1,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"piri piri",
+        "amount": 8,
+        "unit":"gr",
+        "grp": 3
+      }
+    ]
+  },
+  {
+    "name": "Vegane Bowl nach Thai Art",
+    "id": "0003",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Reis",
+        "amount": 1.5,
+        "unit": "cup",
+        "grp": 6
+      },
+      {
+        "item": "Avocado",
+        "amount": 4,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item":"Gurke",
+        "amount": 1,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Karrote",
+        "amount": 4,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Minze",
+        "amount": 10,
+        "unit":"gr",
+        "grp": 2
+      },
+      {
+        "item":"Koriander",
+        "amount": 10,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Sweet chili Sauce",
+        "amount": 50,
+        "unit":"gr",
+        "grp": 3
+      },
+      {
+        "item":"Limette",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Siracha Sauce",
+        "amount": 15,
+        "unit":"ml",
+        "grp": 3
+      },
+      {
+        "item":"Knoblauchzehe",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Frühlingswiebel",
+        "amount": 2,
+        "unit":"-",
+        "grp": 2
+      },
+      {
+        "item":"Brokkoli",
+        "amount": 500,
+        "unit":"gr",
+        "grp": 2
+      }
+    ]
+  },
+  {
+    "name": "Lazania",
+    "id": "0004",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Lazania Plate",
+        "amount": 1,
+        "unit": "-",
+        "grp": 6
+      },
+      {
+        "item": "Hackfleisch",
+        "amount": 500,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "Zweibel",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Knoblauchzehe",
+        "amount": 1,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Milch",
+        "amount": 200,
+        "unit": "ml",
+        "grp": 4
+      },
+      {
+        "item": "Butter",
+        "amount": 50,
+        "unit": "gr",
+        "grp": 4
+      },
+      {
+        "item": "Mehl",
+        "amount": 50,
+        "unit": "gr",
+        "grp": 6
+      },
+      {
+        "item": "Pilz",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Käse",
+        "amount": 150,
+        "unit": "gr",
+        "grp": 4
+      },
+      {
+        "item": "Gurke",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Tomate",
+        "amount": 50,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Salat",
+        "amount": 100,
+        "unit": "gr",
+        "grp": 2
+      }
+    ]
+  },
+  {
+    "name": "Chicken Aloo",
+    "id": "0005",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Reis",
+        "amount": 1.5,
+        "unit": "cup",
+        "grp": 6
+      },
+      {
+        "item": "Hähnchen",
+        "amount": 400,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "trockene Pflaume",
+        "amount": 12,
+        "unit": "-",
+        "grp": 7
+      },
+      {
+        "item": "Zereshk",
+        "amount": 20,
+        "unit": "gr",
+        "grp": 7
+      },
+      {
+        "item": "Sahnejoghurt",
+        "amount": 250,
+        "unit": "gr",
+        "grp": 4
+      },
+      {
+        "item": "Minze",
+        "amount": 15,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Kumin",
+        "amount": 1,
+        "unit": "tsb",
+        "grp": 3
+      }
+    ]
+  },
+  {
+    "name": "Salbei-schwinesteak mit Tomatten-Katoffel-Püree",
+    "id": "0006",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "schwinesteak",
+        "amount": 560,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "Knoblauchzehe",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Rinderbrühe",
+        "amount": 8,
+        "unit": "gr",
+        "grp": 3
+      },
+      {
+        "item": "mehligk Kartoffeln",
+        "amount": 800,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Tomatenpesto",
+        "amount": 50,
+        "unit": "gr",
+        "grp": 5
+      },
+      {
+        "item": "Zucchini",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "rote Paprika",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "rote Zweibel",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Petersilie",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Salbei",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Butter",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Hello Mezze",
+        "amount": 6,
+        "unit": "gr",
+        "grp": 3
+      },
+      {
+        "item": "Balsamico Creme",
+        "amount": 24,
+        "unit": "ml",
+        "grp": 3
+      }
+    ]
+  },
+  {
+    "name": "Mexikanischer Salat mit BBQ Hähnchen",
+    "id": "0007",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Hähnchen",
+        "amount": 500,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "Salat",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Tomate",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Mayonnaise",
+        "amount": 100,
+        "unit": "ml",
+        "grp": 3
+      },
+      {
+        "item": "schwarze Bohnen",
+        "amount": 2,
+        "unit": "can",
+        "grp": 5
+      },
+      {
+        "item": "Limette",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Frühlingswiebel",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "BBQ souße",
+        "amount": 40,
+        "unit": "ml",
+        "grp": 3
+      },
+      {
+        "item": "Tortila Chips",
+        "amount": 150,
+        "unit": "gr",
+        "grp": 8
+      },
+      {
+        "item": "Mais",
+        "amount": 1,
+        "unit": "can",
+        "grp": 5
+      },
+      {
+        "item": "Hello Fiesta",
+        "amount": 4,
+        "unit": "gr",
+        "grp": 3
+      }
+    ]
+  },
+  {
+    "name": "Loobia Polo",
+    "id": "0008",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Zweibel",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "grün Bohne",
+        "amount": 300,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Hackfleisch",
+        "amount": 400,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "Reis",
+        "amount": 1.5,
+        "unit": "cup",
+        "grp": 6
+      },
+      {
+        "item": "Tomate",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Gurke",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "rote Zweibel",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Minze",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Limette",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Sahnejoghurt",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 4
+      },
+      {
+        "item": "Kumin",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 3
+      }
+    ]
+  },
+  {
+    "name": "Maheeche",
+    "id": "0009",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Lammfleisch",
+        "amount": 400,
+        "unit": "gr",
+        "grp": 1
+      },
+      {
+        "item": "Dill",
+        "amount": 20,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Reis",
+        "amount": 1.5,
+        "unit": "cup",
+        "grp": 2
+      },
+      {
+        "item": "Gurke",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Joghurt",
+        "amount": 500,
+        "unit": "ml",
+        "grp": 4
+      },
+      {
+        "item": "Zimt",
+        "amount": 10,
+        "unit": "gr",
+        "grp": 3
+      },
+      {
+        "item": "Zweibel",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Knoblauchzehe",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      }
+    ]
+  },
+  {
+    "name": "asian-vegetable-broth",
+    "url": "https://www.jamieoliver.com/recipes/vegetables-recipes/asian-vegetable-broth/",
+    "id": "0010",
+    "language": "DE",
+    "ingredients":[
+      {
+        "item": "Knoblauchzehe",
+        "amount": 3,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Ingwer",
+        "amount": 5,
+        "unit": "cm",
+        "grp": 2
+      },
+      {
+        "item": "Asiatisches Grün",
+        "amount": 200,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Frühlingswiebel",
+        "amount": 2,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "chili",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Basilikum",
+        "amount": 1,
+        "unit": "",
+        "grp": 2
+      },
+      {
+        "item": "Zitrongras",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      },
+      {
+        "item": "Anis",
+        "amount": 2,
+        "unit": "star",
+        "grp": 6
+      },
+      {
+        "item": "Gemüsebrühe",
+        "amount": 2,
+        "unit": "-",
+        "grp": 6
+      },
+      {
+        "item": "Soja souße",
+        "amount": 1,
+        "unit": "tsb",
+        "grp": 6
+      },
+      {
+        "item": "Shiso-Kresse",
+        "amount": 100,
+        "unit": "gr",
+        "grp": 2
+      },
+      {
+        "item": "Limette",
+        "amount": 1,
+        "unit": "-",
+        "grp": 2
+      }
+    ]
+  }
+]}
